@@ -3,5 +3,5 @@ git init
 git add .
 git add *
 git commit -m "Initial Commit" -a
-git remote add origin origin https://github.com/name/botname.git #Указываем свою ссылку
+git remote add origin origin https://github.com/Bloody555/tgbot #Указываем свою ссылку
 git push -u origin master
